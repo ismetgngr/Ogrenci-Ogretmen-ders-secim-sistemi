@@ -1,0 +1,9 @@
+1 istatistik_olasilik_hesaplama 2 20 20 0
+2 alt_seviye_programlama 4 20 20 0
+3 yapisal_programlama 5 20 20 3
+4 yapisal_programlamaya_giris 4 20 17 0
+5 ayrik_matematik 3 20 14 3
+6 algoritma_analizi 4 20 20 0
+7 bilgisayar_bilimlerine_giris 5 30 30 0
+8 devre_teorisi 4 50 50 0
+9 sinyaller_sistemler 3 20 20 0
